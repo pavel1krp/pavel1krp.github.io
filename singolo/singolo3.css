@@ -334,10 +334,6 @@ body{
   margin: 10px 5px 0px 0px;
 }
 
-.photo_column {}
-
-.all_about {}
-
 p {
   margin: 0;
 }
@@ -434,7 +430,7 @@ p {
 
 .quisque_smal {
   font-size: 12px;
-  margin: 9px 14px 13px 01px;
+  margin: 9px 14px 21px 01px;
   line-height: 22px;
   font-family: 'Lato Bold';
   font-weight: 900;
@@ -497,4 +493,12 @@ footer {
     border: 0;
     border-radius: 5px;
     overflow: hidden;
+}
+.contakti{
+  font-size: 12px;
+  line-height: 22px;
+}
+.mmail{
+  text-decoration: none;
+  color: inherit;
 }
